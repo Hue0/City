@@ -1,0 +1,12 @@
+/Users/Tomek/Projects/CityProject/CityProject/bin/Debug/netcoreapp3.1/CityProject.deps.json
+/Users/Tomek/Projects/CityProject/CityProject/bin/Debug/netcoreapp3.1/CityProject.runtimeconfig.json
+/Users/Tomek/Projects/CityProject/CityProject/bin/Debug/netcoreapp3.1/CityProject.runtimeconfig.dev.json
+/Users/Tomek/Projects/CityProject/CityProject/bin/Debug/netcoreapp3.1/CityProject.dll
+/Users/Tomek/Projects/CityProject/CityProject/bin/Debug/netcoreapp3.1/CityProject.pdb
+/Users/Tomek/Projects/CityProject/CityProject/obj/Debug/netcoreapp3.1/CityProject.csproj.AssemblyReference.cache
+/Users/Tomek/Projects/CityProject/CityProject/obj/Debug/netcoreapp3.1/CityProject.AssemblyInfoInputs.cache
+/Users/Tomek/Projects/CityProject/CityProject/obj/Debug/netcoreapp3.1/CityProject.AssemblyInfo.cs
+/Users/Tomek/Projects/CityProject/CityProject/obj/Debug/netcoreapp3.1/CityProject.csproj.CoreCompileInputs.cache
+/Users/Tomek/Projects/CityProject/CityProject/obj/Debug/netcoreapp3.1/CityProject.dll
+/Users/Tomek/Projects/CityProject/CityProject/obj/Debug/netcoreapp3.1/CityProject.pdb
+/Users/Tomek/Projects/CityProject/CityProject/obj/Debug/netcoreapp3.1/CityProject.genruntimeconfig.cache
